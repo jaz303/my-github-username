@@ -1,6 +1,6 @@
 {
   "name": "my-github-username",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get the Github username of the current user",
   "main": "index.js",
   "scripts": {
