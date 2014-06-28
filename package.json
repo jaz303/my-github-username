@@ -1,0 +1,29 @@
+{
+  "name": "my-github-username",
+  "version": "0.0.0",
+  "description": "Get the Github username of the current user",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/all.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaz303/my-github-username.git"
+  },
+  "keywords": [
+    "github",
+    "username"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaz303/my-github-username/issues"
+  },
+  "homepage": "https://github.com/jaz303/my-github-username",
+  "dependencies": {
+    "iniparser": "~1.0.5"
+  },
+  "devDependencies": {
+    "tape": "~2.13.3"
+  }
+}
